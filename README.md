@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Fahmi Yahya 👋
+
+Hello I love building amazing software which make an impact
 
 <!--
 **fame46/fame46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
