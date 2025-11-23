@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="left">
   <!-- GitHub Readme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=fame46&show_icons=true&theme=radical" />
   <!-- Top langs -->
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- WakaTime Stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fame46&theme=radical" />
 </p>
 
