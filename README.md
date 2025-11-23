@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- GitHub Readme Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fame46&show_icons=true&theme=radical" alt="fame46's GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fame46&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fame46&layout=compact&theme=radical" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fame46&theme=dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fame46&theme=onedark" />
+</p>
