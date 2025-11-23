@@ -4,13 +4,17 @@ Hello I love building amazing software which make an impact
 - 🔭 I’m currently working on I'm currently working on a side project!
 - ⚡ Fun fact: I love swimming and making fun projects 😋
 - 👯 I’m looking to collaborate with other developer
-- 🧱 Programmer vernoss.com
+- 🧱 Programmer [Vernoss](https://www.vernoss.com)
+
+## About Me
+
+[![LinkedIn](https://www.linkedin.com/in/fahmi-yahya-fame46)]()
 
 ## Currently Learning
+
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-
 
 <!--
 **fame46/fame46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
+
 ## GitHub Stats
 
 <p align="left">
