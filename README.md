@@ -17,18 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- GitHub Stats -->
 <p align="center">
+  <!-- GitHub Readme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=fame46&show_icons=true&theme=radical" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
+  <!-- Top langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fame46&layout=compact&theme=radical" />
 </p>
 
 <!-- Streak Stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fame46&theme=radical" />
 </p>
 
