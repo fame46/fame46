@@ -7,6 +7,10 @@ Hello I love building amazing software which make an impact
 - 👯 I’m looking to collaborate with other developer
 - 🧱 Programmer vernoss.com
 
+Currently learning:
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+
+
 <!--
 **fame46/fame46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
