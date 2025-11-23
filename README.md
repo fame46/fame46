@@ -8,7 +8,7 @@ Hello I love building amazing software which make an impact
 
 ## About Me
 
-[![LinkedIn](https://www.linkedin.com/in/fahmi-yahya-fame46)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmi-yahya-fame46)
 
 ## Currently Learning
 
