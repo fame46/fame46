@@ -43,4 +43,6 @@ Here are some ideas to get you started:
 </p>
 
 <!-- WakaTime Stats -->
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fame46&theme=radical" />
+</p>
