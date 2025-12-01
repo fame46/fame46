@@ -1,7 +1,7 @@
 ## Hi there, I'm Fahmi Yahya 👋
 
 Hello I love building amazing software which make an impact
-- 🔭 I’m currently working on I'm currently working on a side project!
+- 🔭 I’m currently working on a side project!
 - ⚡ Fun fact: I love swimming and making fun projects 😋
 - 👯 I’m looking to collaborate with other developer
 - 🧱 Programmer [Vernoss](https://www.vernoss.com)
