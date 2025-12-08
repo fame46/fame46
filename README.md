@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/fame46/fame46/assets/your-banner-image" alt="Banner" width="100%" />
+  <img src="https://github.com/fame46/fame46/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Fahmi Yahya 👋</h1>
