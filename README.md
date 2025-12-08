@@ -1,10 +1,10 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/fame46/fame46/blob/main/assets/banner.png" alt="Banner" width="100%" />
-</p>
+</p> -->
 
-<!-- <h1 align="center">Hi there, I'm Fahmi Yahya 👋</h1>
-<h3 align="center">Backend Developer | Java • Go • Node.js</h3> -->
+<h1 align="center">Hi there, I'm Fahmi Yahya 👋</h1>
+<h3 align="center">Backend Developer | Java • Go • Node.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fame46&color=blueviolet&style=flat-square" alt="Profile views"/>
