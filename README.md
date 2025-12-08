@@ -20,7 +20,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 - 🔭 Currently working on a **side project**
 - 👯 Looking to collaborate with other developers
 - ⚡ Fun fact: I love **swimming** and making random fun projects 😋
-- 🧱 Programmer @ [Vernoss](https://www.vernoss.com)
+- 🧱 Programmer [Vernoss](https://www.vernoss.com)
 
 ---
 
