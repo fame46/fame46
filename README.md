@@ -59,21 +59,6 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ---
 
-## 🧩 Featured Projects
-
-> *(Tambahkan repo kamu nanti — placeholders sudah siap.)*
-
-<p align="center">
-  <a href="https://github.com/fame46/REPO1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fame46&repo=REPO1&theme=radical" />
-  </a>
-  <a href="https://github.com/fame46/REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fame46&repo=REPO2&theme=radical" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
