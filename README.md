@@ -1,10 +1,6 @@
-<!-- Banner -->
-<!-- <p align="center">
-  <img src="https://github.com/fame46/fame46/blob/main/assets/banner.png" alt="Banner" width="100%" />
-</p> -->
-
-<h1 align="center">Hi there, I'm Fahmi Yahya 👋</h1>
-<h3 align="center">Backend Developer | Java • Go • Node.js</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Fahmi+Yahya;Backend+Developer+%7C+Java+•+Go+•+Node.js" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fame46&color=blueviolet&style=flat-square" alt="Profile views"/>
