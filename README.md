@@ -84,8 +84,6 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ---
 
-## 🧑‍💻 Footer
-
 <p align="center">
   <i>clean backend code by <b>Fahmi Yahya</b></i>
 </p>
