@@ -71,7 +71,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fame46&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fame46&theme=radical&cache_seconds=86400" height="180" />
 </p>
 
 ---
