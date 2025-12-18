@@ -20,6 +20,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 - 👯 Looking to collaborate with other developers
 - ⚡ Fun fact: I love **swimming** and making random fun projects 😋
 - 🧱 Programmer [Vernoss](https://www.vernoss.com)
+- 🔍 More About me [fahmiyahya](https://fahmiyahya46.vercel.app)
 
 ---
 
