@@ -1,13 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there+I'm+Fahmi+Yahya;Backend+Developer;Java+%7C+Go+%7C+Node.js+Engineer;Clean+Architecture+Enthusiast" />
-</p>
-
 <h1 align="center">Hi there, I'm Fahmi Yahya 👋</h1>
 <h3 align="center">Backend Developer | Java • Go • Node.js</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fame46&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
 
 ---
 
