@@ -73,8 +73,15 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fame46&theme=redical&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fame46&theme=radical&hide_border=true&area=true" />
 </p>
+
+---
+
+## ⏱ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
