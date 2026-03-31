@@ -55,8 +55,9 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fame46&show_icons=true&theme=radical&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fame46&layout=compact&theme=radical&cache_seconds=86400" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fame46&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fame46&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fame46&theme=radical&utcOffset=7" height="180" />
 </p>
 
 ---
@@ -69,10 +70,10 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ---
 
-## ⏱ WakaTime Stats
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fame46&theme=radical&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fame46&theme=redical&hide_border=true&area=true" />
 </p>
 
 ---
