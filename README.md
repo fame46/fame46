@@ -81,6 +81,57 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2052%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.60%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3495 commits        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+🌆 Daytime                7324 commits        █████████████░░░░░░░░░░░░   52.60 % 
+🌃 Evening                2270 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+🌙 Night                  836 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2555 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Tuesday                  2291 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Wednesday                3134 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Thursday                 3179 commits        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Friday                   1913 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Saturday                 294 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Sunday                   559 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Java                     1 hr 21 mins        ██████████████░░░░░░░░░░░   55.78 % 
+YAML                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Go                       32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+
+🔥 Editors: 
+Antigravity              2 hrs 26 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+loyalty-service-backend  1 hr 18 mins        █████████████░░░░░░░░░░░░   53.46 % 
+unification-api-gateway  35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+tsel-prestige-backend-app32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+
+💻 Operating System: 
+Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 31/03/2026 04:21:26 UTC
 <!--END_SECTION:waka-->
 
 ---
