@@ -92,30 +92,30 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.51%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.60%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3469 commits        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌆 Daytime                7282 commits        █████████████░░░░░░░░░░░░   52.84 % 
-🌃 Evening                2234 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-🌙 Night                  797 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+🌞 Morning                3498 commits        ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+🌆 Daytime                7325 commits        █████████████░░░░░░░░░░░░   52.58 % 
+🌃 Evening                2271 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+🌙 Night                  837 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2536 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Tuesday                  2276 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                3117 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Thursday                 3160 commits        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-Friday                   1894 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Saturday                 267 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Sunday                   532 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Monday                   2555 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Tuesday                  2296 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Wednesday                3135 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Thursday                 3179 commits        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Friday                   1913 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Saturday                 294 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Sunday                   559 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 
@@ -125,24 +125,26 @@ Sunday                   532 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     1 hr 21 mins        ██████████████░░░░░░░░░░░   55.78 % 
-YAML                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Go                       32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Java                     1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   37.56 % 
+YAML                     1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   36.91 % 
+Go                       32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 26 mins       █████████████████████████   100.00 % 
+Antigravity              3 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loyalty-service-backend  1 hr 18 mins        █████████████░░░░░░░░░░░░   53.46 % 
-unification-api-gateway  35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-tsel-prestige-backend-app32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+loyalty-service-backend  1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   36.00 % 
+fame46                   1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   32.66 % 
+unification-api-gateway  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+tsel-prestige-backend-app32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 18:53:38 UTC
+ Last Updated on 01/04/2026 01:21:32 UTC
 <!--END_SECTION:waka-->
 
 ---
