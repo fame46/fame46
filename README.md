@@ -92,7 +92,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -104,14 +104,14 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 🌞 Morning                3547 commits        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
 🌆 Daytime                7450 commits        █████████████░░░░░░░░░░░░   52.58 % 
 🌃 Evening                2305 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-🌙 Night                  867 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+🌙 Night                  868 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2597 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Tuesday                  2334 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Wednesday                3186 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Tuesday                  2335 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Wednesday                3186 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
 Thursday                 3248 commits        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 Friday                   1937 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 Saturday                 298 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
@@ -125,28 +125,26 @@ Sunday                   569 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     4 hrs 11 mins       ██████████████░░░░░░░░░░░   54.82 % 
-YAML                     2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.20 % 
-Go                       32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Java                     6 hrs 2 mins        █████████████████░░░░░░░░   69.63 % 
+YAML                     2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-Antigravity              7 hrs 39 mins       █████████████████████████   100.00 % 
+Antigravity              8 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loyalty-service-backend  3 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.16 % 
-unification-api-gateway  1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-fame46                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-loyalty-api-gateway      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-tsel-prestige-backend-app32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+loyalty-service-backend  5 hrs 50 mins       █████████████████░░░░░░░░   67.35 % 
+fame46                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+unification-api-gateway  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+loyalty-api-gateway      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 💻 Operating System: 
-Windows                  7 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 18:45:28 UTC
+ Last Updated on 07/04/2026 01:15:12 UTC
 <!--END_SECTION:waka-->
 
 ---
