@@ -92,7 +92,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -103,19 +103,19 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ```text
 🌞 Morning                3684 commits        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
 🌆 Daytime                7761 commits        █████████████░░░░░░░░░░░░   52.71 % 
-🌃 Evening                2383 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-🌙 Night                  896 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+🌃 Evening                2384 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+🌙 Night                  896 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2686 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Tuesday                  2420 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Wednesday                3321 commits        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Tuesday                  2420 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Wednesday                3321 commits        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
 Thursday                 3381 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
 Friday                   2017 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 Saturday                 309 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Sunday                   590 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Sunday                   591 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 
@@ -125,29 +125,29 @@ Sunday                   590 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     7 hrs 42 mins       █████████████████████░░░░   83.16 % 
-Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Go                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Java                     7 hrs 42 mins       ███████████████████░░░░░░   77.49 % 
+Bash                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Java Properties          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-Antigravity              8 hrs 57 mins       ████████████████████████░   96.58 % 
-Trae                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Antigravity              9 hrs 37 mins       ████████████████████████░   96.82 % 
+Trae                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🐱‍💻 Projects: 
-loyalty-service-backend  6 hrs 5 mins        ████████████████░░░░░░░░░   65.66 % 
-reward-voucher-backend-se2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-tsel-prestige-backend-app45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-campaign-service-backend 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-aquila-bloombox-backend  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+loyalty-service-backend  6 hrs 6 mins        ███████████████░░░░░░░░░░   61.48 % 
+reward-voucher-backend-se2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+tsel-prestige-backend-app45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+bpp-esip-pertamina-backen11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+exchange-service-backend 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 💻 Operating System: 
-Windows                  9 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2026 12:37:36 UTC
+ Last Updated on 12/04/2026 18:36:24 UTC
 <!--END_SECTION:waka-->
 
 ---
