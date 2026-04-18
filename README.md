@@ -92,12 +92,61 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2040%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.01%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 18/04/2026 01:15:45 UTC
+```text
+🌞 Morning                3971 commits        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+🌆 Daytime                8380 commits        █████████████░░░░░░░░░░░░   52.88 % 
+🌃 Evening                2541 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+🌙 Night                  954 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2888 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Tuesday                  2582 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Wednesday                3609 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Thursday                 3623 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Friday                   2170 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Saturday                 333 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Sunday                   641 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Java                     7 hrs 42 mins       ███████████████████░░░░░░   77.30 % 
+YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Java Properties          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Go                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+
+🔥 Editors: 
+Antigravity              9 hrs 58 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+reward-voucher-backend-se5 hrs 20 mins       █████████████░░░░░░░░░░░░   53.52 % 
+loyalty-service-backend  2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+gift-voucher-api         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+tsel-prestige-backend-app27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+bpp-esip-pertamina-backen11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+
+💻 Operating System: 
+Windows                  9 hrs 58 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/04/2026 06:59:46 UTC
 <!--END_SECTION:waka-->
 
 ---
