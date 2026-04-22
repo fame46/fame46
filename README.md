@@ -92,30 +92,30 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.46%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4379 commits        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-🌆 Daytime                9282 commits        █████████████░░░░░░░░░░░░   53.07 % 
-🌃 Evening                2789 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-🌙 Night                  1041 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+🌞 Morning                4480 commits        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+🌆 Daytime                9506 commits        █████████████░░░░░░░░░░░░   53.11 % 
+🌃 Evening                2850 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+🌙 Night                  1063 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3192 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Tuesday                  2813 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Wednesday                4025 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Thursday                 3991 commits        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Friday                   2394 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Saturday                 363 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Sunday                   713 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Monday                   3267 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Tuesday                  2869 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Wednesday                4130 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Thursday                 4083 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Friday                   2450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Saturday                 370 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Sunday                   730 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
@@ -125,28 +125,28 @@ Sunday                   713 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     6 hrs 14 mins       ███████████████████░░░░░░   76.56 % 
-Go                       50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-YAML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Java Properties          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Java                     4 hrs 27 mins       ████████████████░░░░░░░░░   65.82 % 
+Go                       1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+YAML                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Antigravity              8 hrs 9 mins        █████████████████████████   100.00 % 
+Antigravity              6 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-reward-voucher-backend-se3 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.94 % 
-loyalty-service-backend  2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.74 % 
-tsel-prestige-backend-app50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-gift-voucher-api         39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-reward-voucher-api-gatewa5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+loyalty-service-backend  4 hrs 5 mins        ███████████████░░░░░░░░░░   60.47 % 
+tsel-prestige-backend-app1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+reward-voucher-backend-se44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+gift-voucher-api         39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+reward-voucher-api-gatewa5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2026 19:00:32 UTC
+ Last Updated on 22/04/2026 01:19:42 UTC
 <!--END_SECTION:waka-->
 
 ---
