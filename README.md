@@ -92,14 +92,59 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.61%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 13/05/2026 01:56:09 UTC
+```text
+🌞 Morning                4583 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+🌆 Daytime                9837 commits        █████████████░░░░░░░░░░░░   53.34 % 
+🌃 Evening                2924 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+🌙 Night                  1099 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3366 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Tuesday                  2988 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                4238 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Thursday                 4202 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Friday                   2515 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Saturday                 388 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Sunday                   746 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Java                     14 hrs 22 mins      █████████████████████░░░░   82.63 % 
+YAML                     2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java Properties          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Go                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Antigravity              17 hrs 24 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+loyalty-service-backend  16 hrs 38 mins      ████████████████████████░   95.66 % 
+gift-voucher-api         41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+tsel-prestige-backend-app3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+💻 Operating System: 
+Windows                  17 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 13/05/2026 08:35:57 UTC
 <!--END_SECTION:waka-->
 
 ---
