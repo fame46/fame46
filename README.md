@@ -92,8 +92,6 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2047%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.61%20million%20lines%20of%20code-blue?style=flat)
@@ -102,8 +100,8 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ```text
 🌞 Morning                4585 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-🌆 Daytime                9843 commits        █████████████░░░░░░░░░░░░   53.34 % 
-🌃 Evening                2926 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+🌆 Daytime                9843 commits        █████████████░░░░░░░░░░░░   53.33 % 
+🌃 Evening                2927 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 🌙 Night                  1101 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -113,7 +111,7 @@ Monday                   3366 commits        █████░░░░░░�
 Tuesday                  2988 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 Wednesday                4240 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
 Thursday                 4206 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Friday                   2521 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Friday                   2522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 Saturday                 388 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 Sunday                   746 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
@@ -140,7 +138,7 @@ Windows                  18 hrs 25 mins      ███████████�
 ```
 
 
- Last Updated on 15/05/2026 13:29:28 UTC
+ Last Updated on 15/05/2026 19:19:58 UTC
 <!--END_SECTION:waka-->
 
 ---
