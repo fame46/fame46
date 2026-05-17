@@ -102,9 +102,9 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ```text
 🌞 Morning                4586 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-🌆 Daytime                9844 commits        █████████████░░░░░░░░░░░░   53.33 % 
+🌆 Daytime                9844 commits        █████████████░░░░░░░░░░░░   53.32 % 
 🌃 Evening                2928 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-🌙 Night                  1102 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+🌙 Night                  1103 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -115,7 +115,7 @@ Wednesday                4240 commits        ██████░░░░░�
 Thursday                 4206 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
 Friday                   2522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 Saturday                 392 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Sunday                   746 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Sunday                   747 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
 
@@ -125,22 +125,22 @@ Sunday                   746 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     14 hrs 33 mins      ██████████████████████░░░   89.93 % 
-YAML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Java                     12 hrs 46 mins      ██████████████████████░░░   88.68 % 
+YAML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-Antigravity              16 hrs 11 mins      █████████████████████████   100.00 % 
+Antigravity              14 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loyalty-service-backend  16 hrs 11 mins      █████████████████████████   100.00 % 
+loyalty-service-backend  14 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/05/2026 18:49:51 UTC
+ Last Updated on 17/05/2026 01:53:41 UTC
 <!--END_SECTION:waka-->
 
 ---
