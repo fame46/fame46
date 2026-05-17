@@ -92,55 +92,12 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2047%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.61%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                4587 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-🌆 Daytime                9845 commits        █████████████░░░░░░░░░░░░   53.32 % 
-🌃 Evening                2928 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-🌙 Night                  1103 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3366 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Tuesday                  2988 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Wednesday                4240 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Thursday                 4206 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-Friday                   2522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Saturday                 392 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Sunday                   749 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Java                     12 hrs 46 mins      ██████████████████████░░░   88.68 % 
-YAML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-
-🔥 Editors: 
-Antigravity              14 hrs 24 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-loyalty-service-backend  14 hrs 24 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  14 hrs 24 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/05/2026 12:53:59 UTC
+ Last Updated on 17/05/2026 18:53:52 UTC
 <!--END_SECTION:waka-->
 
 ---
