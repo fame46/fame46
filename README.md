@@ -92,12 +92,55 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2055%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.61%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 17/05/2026 18:53:52 UTC
+```text
+🌞 Morning                4587 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+🌆 Daytime                9845 commits        █████████████░░░░░░░░░░░░   53.32 % 
+🌃 Evening                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+🌙 Night                  1104 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3367 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Tuesday                  2988 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Wednesday                4240 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Thursday                 4206 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Friday                   2522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 392 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Sunday                   750 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Java                     12 hrs 49 mins      ██████████████████████░░░   88.72 % 
+YAML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+
+🔥 Editors: 
+Antigravity              14 hrs 27 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+loyalty-service-backend  14 hrs 27 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  14 hrs 27 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/05/2026 02:03:06 UTC
 <!--END_SECTION:waka-->
 
 ---
