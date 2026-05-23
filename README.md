@@ -102,9 +102,9 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ```text
 🌞 Morning                4771 commits        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-🌆 Daytime                10346 commits       █████████████░░░░░░░░░░░░   53.63 % 
+🌆 Daytime                10346 commits       █████████████░░░░░░░░░░░░   53.62 % 
 🌃 Evening                3028 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-🌙 Night                  1148 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+🌙 Night                  1149 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -114,7 +114,7 @@ Tuesday                  3120 commits        ████░░░░░░░�
 Wednesday                4448 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
 Thursday                 4381 commits        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
 Friday                   2628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Saturday                 403 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Saturday                 404 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 Sunday                   778 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 
@@ -125,25 +125,24 @@ Sunday                   778 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     6 hrs 42 mins       █████████████████████░░░░   85.93 % 
-YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Java                     5 hrs               █████████████████████░░░░   85.94 % 
+YAML                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Antigravity              7 hrs 47 mins       █████████████████████████   100.00 % 
+Antigravity              5 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loyalty-service-backend  7 hrs 46 mins       █████████████████████████   99.70 % 
-tsel-prestige-backend-app1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+loyalty-service-backend  5 hrs 48 mins       █████████████████████████   99.60 % 
+tsel-prestige-backend-app1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Windows                  7 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/05/2026 19:27:10 UTC
+ Last Updated on 23/05/2026 01:54:22 UTC
 <!--END_SECTION:waka-->
 
 ---
