@@ -92,57 +92,12 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2042%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.95%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                4885 commits        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-🌆 Daytime                10628 commits       █████████████░░░░░░░░░░░░   53.71 % 
-🌃 Evening                3097 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-🌙 Night                  1177 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3634 commits        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Tuesday                  3196 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Wednesday                4566 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Thursday                 4491 commits        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Friday                   2687 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 414 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Sunday                   799 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Java                     1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   35.54 % 
-Markdown                 52 mins             ████████░░░░░░░░░░░░░░░░░   30.22 % 
-YAML                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-Bash                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-loyalty-service-backend  2 hrs 35 mins       ██████████████████████░░░   88.96 % 
-wa-chat-bot              19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-
-💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 15:09:23 UTC
+ Last Updated on 28/05/2026 20:09:02 UTC
 <!--END_SECTION:waka-->
 
 ---
