@@ -102,9 +102,9 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ```text
 🌞 Morning                4885 commits        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-🌆 Daytime                10635 commits       █████████████░░░░░░░░░░░░   53.73 % 
-🌃 Evening                3099 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-🌙 Night                  1176 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+🌆 Daytime                10635 commits       █████████████░░░░░░░░░░░░   53.72 % 
+🌃 Evening                3099 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+🌙 Night                  1177 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -112,7 +112,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 Monday                   3639 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
 Tuesday                  3204 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 Wednesday                4568 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Thursday                 4484 commits        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Thursday                 4485 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
 Friday                   2687 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 Saturday                 414 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 Sunday                   799 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
@@ -125,25 +125,24 @@ Sunday                   799 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   36.79 % 
-Markdown                 52 mins             ████████░░░░░░░░░░░░░░░░░   31.28 % 
-YAML                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Java                     1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   35.54 % 
+Markdown                 52 mins             ████████░░░░░░░░░░░░░░░░░   30.22 % 
+YAML                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Bash                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       █████████████████████████   99.63 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loyalty-service-backend  2 hrs 36 mins       ███████████████████████░░   92.46 % 
-wa-chat-bot              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+loyalty-service-backend  2 hrs 35 mins       ██████████████████████░░░   88.96 % 
+wa-chat-bot              19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 
 💻 Operating System: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/05/2026 20:03:39 UTC
+ Last Updated on 28/05/2026 01:51:39 UTC
 <!--END_SECTION:waka-->
 
 ---
