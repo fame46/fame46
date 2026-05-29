@@ -92,12 +92,58 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2050%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.95%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 28/05/2026 20:09:02 UTC
+```text
+🌞 Morning                4900 commits        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+🌆 Daytime                10665 commits       █████████████░░░░░░░░░░░░   53.71 % 
+🌃 Evening                3104 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+🌙 Night                  1186 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3640 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Tuesday                  3214 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Wednesday                4582 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Thursday                 4500 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Friday                   2697 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Saturday                 416 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Sunday                   806 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Java                     1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   37.12 % 
+YAML                     1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Markdown                 55 mins             ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+loyalty-service-backend  3 hrs 44 mins       ███████████████████████░░   92.05 % 
+wa-chat-bot              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+
+💻 Operating System: 
+Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/05/2026 02:02:36 UTC
 <!--END_SECTION:waka-->
 
 ---
