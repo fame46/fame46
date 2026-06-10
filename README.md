@@ -92,7 +92,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -102,20 +102,20 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ```text
 🌞 Morning                4986 commits        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-🌆 Daytime                10810 commits       █████████████░░░░░░░░░░░░   53.66 % 
-🌃 Evening                3140 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-🌙 Night                  1211 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+🌆 Daytime                10810 commits       █████████████░░░░░░░░░░░░   53.65 % 
+🌃 Evening                3140 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+🌙 Night                  1212 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3676 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Monday                   3676 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
 Tuesday                  3266 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Wednesday                4626 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Wednesday                4627 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
 Thursday                 4570 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 Friday                   2760 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 Saturday                 428 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Sunday                   821 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Sunday                   821 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 
 
@@ -125,27 +125,27 @@ Sunday                   821 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     4 hrs 15 mins       ██████████████████░░░░░░░   72.98 % 
-YAML                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-XML                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Go                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Java                     5 hrs               ███████████████████░░░░░░   74.65 % 
+YAML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+XML                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Go                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loyalty-api-gateway      2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.18 % 
-reward-voucher-backend-se2 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.48 % 
-loyalty-service-backend  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-tsel-prestige-backend-app9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+reward-voucher-backend-se2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.08 % 
+loyalty-api-gateway      2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.91 % 
+loyalty-service-backend  1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+tsel-prestige-backend-app9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/06/2026 19:59:40 UTC
+ Last Updated on 10/06/2026 02:07:49 UTC
 <!--END_SECTION:waka-->
 
 ---
