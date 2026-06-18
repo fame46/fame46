@@ -92,7 +92,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -101,21 +101,21 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5018 commits        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+🌞 Morning                5018 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
 🌆 Daytime                10900 commits       █████████████░░░░░░░░░░░░   53.71 % 
-🌃 Evening                3157 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌃 Evening                3158 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 🌙 Night                  1220 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3705 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Monday                   3705 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 Tuesday                  3274 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Wednesday                4669 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Thursday                 4619 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Wednesday                4669 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Thursday                 4620 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
 Friday                   2771 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 Saturday                 432 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Sunday                   825 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Sunday                   825 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 ```
 
 
@@ -146,7 +146,7 @@ Windows                  5 hrs 5 mins        ███████████�
 ```
 
 
- Last Updated on 18/06/2026 14:46:31 UTC
+ Last Updated on 18/06/2026 20:12:35 UTC
 <!--END_SECTION:waka-->
 
 ---
