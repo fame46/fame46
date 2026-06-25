@@ -104,7 +104,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 🌞 Morning                5070 commits        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
 🌆 Daytime                10951 commits       █████████████░░░░░░░░░░░░   53.63 % 
 🌃 Evening                3172 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌙 Night                  1226 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+🌙 Night                  1227 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -112,7 +112,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 Monday                   3737 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 Tuesday                  3288 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 Wednesday                4687 commits        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Thursday                 4636 commits        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Thursday                 4637 commits        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
 Friday                   2806 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 Saturday                 436 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 Sunday                   829 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
@@ -125,28 +125,28 @@ Sunday                   829 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     6 hrs 38 mins       ██████████████████░░░░░░░   72.15 % 
-Markdown                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Go                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Java Properties          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Java                     6 hrs 55 mins       ██████████████████░░░░░░░   71.34 % 
+Markdown                 1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+XML                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Java Properties          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 12 mins       █████████████████████████   100.00 % 
+Antigravity IDE          9 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-reward-voucher-backend-se6 hrs 34 mins       ██████████████████░░░░░░░   71.38 % 
-reward-voucher-api-gatewa49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-loyalty-service-backend  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-loyalty-api-gateway      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-scratch                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+reward-voucher-backend-se6 hrs 56 mins       ██████████████████░░░░░░░   71.56 % 
+loyalty-service-backend  2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+scratch                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+reward-voucher-api-gatewa10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+unification-api-gateway  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/06/2026 19:31:36 UTC
+ Last Updated on 25/06/2026 02:05:17 UTC
 <!--END_SECTION:waka-->
 
 ---
