@@ -92,7 +92,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,15 +104,15 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 🌞 Morning                5239 commits        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
 🌆 Daytime                11323 commits       █████████████░░░░░░░░░░░░   53.66 % 
 🌃 Evening                3269 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-🌙 Night                  1270 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌙 Night                  1271 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3871 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Monday                   3871 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
 Tuesday                  3391 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                4827 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Thursday                 4789 commits        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Wednesday                4827 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Thursday                 4790 commits        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
 Friday                   2910 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 Saturday                 455 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 Sunday                   858 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
@@ -125,28 +125,28 @@ Sunday                   858 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       12 hrs 18 mins      ████████████████████░░░░░   78.83 % 
-Java                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Go                       8 hrs 42 mins       █████████████████░░░░░░░░   68.33 % 
+Java                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+YAML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 36 mins      █████████████████████████   100.00 % 
+Antigravity IDE          12 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tsel-prestige-backend-app12 hrs 50 mins      █████████████████████░░░░   82.26 % 
-loyalty-service-backend  2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-reward-voucher-backend-se21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-scratch                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-loyalty-api-gateway      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+tsel-prestige-backend-app9 hrs 13 mins       ██████████████████░░░░░░░   72.37 % 
+loyalty-service-backend  2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+unification-api-gateway  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+reward-voucher-backend-se25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+scratch                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Windows                  15 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/07/2026 18:57:56 UTC
+ Last Updated on 16/07/2026 01:23:38 UTC
 <!--END_SECTION:waka-->
 
 ---
