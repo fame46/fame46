@@ -92,7 +92,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -102,20 +102,20 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ```text
 🌞 Morning                5269 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-🌆 Daytime                11373 commits       █████████████░░░░░░░░░░░░   53.64 % 
-🌃 Evening                3284 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-🌙 Night                  1277 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌆 Daytime                11373 commits       █████████████░░░░░░░░░░░░   53.63 % 
+🌃 Evening                3286 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+🌙 Night                  1278 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   3880 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 Tuesday                  3409 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Wednesday                4848 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Thursday                 4806 commits        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Wednesday                4850 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Thursday                 4807 commits        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 Friday                   2939 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 Saturday                 459 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Sunday                   862 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Sunday                   862 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 ```
 
 
@@ -125,28 +125,28 @@ Sunday                   862 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     8 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.26 % 
-Go                       6 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
-YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Go                       10 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.50 % 
+Java                     8 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.55 % 
+YAML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-Antigravity IDE          19 hrs 41 mins      █████████████████████████   100.00 % 
+Antigravity IDE          23 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tsel-prestige-backend-app7 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
-reward-voucher-backend-se4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-loyalty-service-backend  4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-unification-api-gateway  1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-loyalty-api-gateway      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+tsel-prestige-backend-app12 hrs 15 mins      █████████████░░░░░░░░░░░░   52.23 % 
+loyalty-service-backend  4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+reward-voucher-backend-se4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+unification-api-gateway  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+loyalty-api-gateway      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-Windows                  19 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/07/2026 19:00:21 UTC
+ Last Updated on 23/07/2026 01:32:28 UTC
 <!--END_SECTION:waka-->
 
 ---
