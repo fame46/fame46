@@ -92,7 +92,9 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -102,14 +104,14 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ```text
 🌞 Morning                5402 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-🌆 Daytime                11697 commits       █████████████░░░░░░░░░░░░   53.69 % 
-🌃 Evening                3384 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌆 Daytime                11697 commits       █████████████░░░░░░░░░░░░   53.68 % 
+🌃 Evening                3385 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 🌙 Night                  1305 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3998 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Monday                   3999 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
 Tuesday                  3484 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 Wednesday                4970 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
 Thursday                 4928 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
@@ -144,8 +146,32 @@ Unknown Project          2 mins              ░░░░░░░░░░░�
 Windows                  29 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 14:13:22 UTC
+```text
+⏱ AI Coding Time: 25 hrs 27 mins (87.04%)
+
+✍️ 1,973 lines written by AI, 95 lines written by hand (95.41% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 257 AI Prompts
+
+Gemini                   2,345 lines         █████████████████████░░░░   82.63 % 
+Opus                     334 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Sonnet                   159 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.41% of written lines came from AI
+📝 Concise Prompter — average 248 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 9.24% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 19:15:38 UTC
 <!--END_SECTION:waka-->
 
 ---
