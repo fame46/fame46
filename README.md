@@ -106,12 +106,12 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 🌞 Morning                5426 commits        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
 🌆 Daytime                11733 commits       █████████████░░░░░░░░░░░░   53.67 % 
 🌃 Evening                3391 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-🌙 Night                  1311 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+🌙 Night                  1312 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4004 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Monday                   4005 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
 Tuesday                  3500 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 Wednesday                4988 commits        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
 Thursday                 4932 commits        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
@@ -127,49 +127,49 @@ Sunday                   895 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     7 hrs 58 mins       ███████████████░░░░░░░░░░   61.28 % 
-Go                       4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Java                     7 hrs 52 mins       █████████████████████░░░░   84.70 % 
+Go                       1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 1 min        █████████████████████████   100.00 % 
+Antigravity IDE          9 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-reward-voucher-backend-se5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.90 % 
-tsel-prestige-backend-app4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.38 % 
-loyalty-service-backend  2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+reward-voucher-backend-se5 hrs 28 mins       ███████████████░░░░░░░░░░   58.93 % 
+loyalty-service-backend  2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+tsel-prestige-backend-app1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 
 💻 Operating System: 
-Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  9 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 42 mins (82.28%)
+⏱ AI Coding Time: 7 hrs 3 mins (76.0%)
 
-✍️ 713 lines written by AI, 60 lines written by hand (92.24% AI-written)
+✍️ 419 lines written by AI, 60 lines written by hand (87.47% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 108 AI Prompts
+🧠 8 AI Sessions, 65 AI Prompts
 
-Gemini                   965 lines           ████████████████████████░   95.07 % 
-Opus                     50 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Gemini                   456 lines           ███████████████████████░░   90.12 % 
+Opus                     50 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.24% of written lines came from AI
-📝 Concise Prompter — average 344 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 9.94% of changed lines were hand-edited
+🤖 AI-Driven — 87.47% of written lines came from AI
+📝 Concise Prompter — average 356 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 18.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 18:55:00 UTC
+ Last Updated on 03/08/2026 01:30:35 UTC
 <!--END_SECTION:waka-->
 
 ---
