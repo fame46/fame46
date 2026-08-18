@@ -106,13 +106,13 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 🌞 Morning                5463 commits        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
 🌆 Daytime                11785 commits       █████████████░░░░░░░░░░░░   53.62 % 
 🌃 Evening                3406 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-🌙 Night                  1324 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌙 Night                  1325 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4032 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Tuesday                  3523 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Monday                   4032 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Tuesday                  3524 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 Wednesday                5006 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
 Thursday                 4954 commits        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
 Friday                   3068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
@@ -127,30 +127,30 @@ Sunday                   903 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     5 hrs 43 mins       █████████████████████░░░░   84.83 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Java                     4 hrs 59 mins       █████████████████████░░░░   84.49 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 42 mins       █████████████████████████   99.46 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Antigravity IDE          5 hrs 52 mins       █████████████████████████   99.39 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-loyalty-service-backend  3 hrs 51 mins       ██████████████░░░░░░░░░░░   57.08 % 
-reward-voucher-backend-se2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.56 % 
-loyalty-api-gateway      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-scratch                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-c0258cf4-5ba5-42f9-a48e-c4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+loyalty-service-backend  3 hrs 4 mins        █████████████░░░░░░░░░░░░   52.10 % 
+reward-voucher-backend-se2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.90 % 
+loyalty-api-gateway      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+scratch                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+c0258cf4-5ba5-42f9-a48e-c4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Windows                  6 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 3 mins (74.91%)
+⏱ AI Coding Time: 4 hrs 22 mins (74.01%)
 
 ✍️ 90 lines written by AI, 191 lines written by hand (32.03% AI-written)
 
@@ -158,20 +158,20 @@ Windows                  6 hrs 44 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 87 AI Prompts
+🧠 22 AI Sessions, 80 AI Prompts
 
 Opus                     91 lines            ████████████████████████░   96.81 % 
 Gemini                   3 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 32.03% of written lines came from AI
-📝 Concise Prompter — average 275 characters per prompt
+📝 Concise Prompter — average 288 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 67.25% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 18:26:28 UTC
+ Last Updated on 18/08/2026 00:34:43 UTC
 <!--END_SECTION:waka-->
 
 ---
