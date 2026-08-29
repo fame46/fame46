@@ -92,9 +92,9 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,7 +106,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 🌞 Morning                5487 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
 🌆 Daytime                11837 commits       █████████████░░░░░░░░░░░░   53.61 % 
 🌃 Evening                3415 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-🌙 Night                  1341 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+🌙 Night                  1342 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -116,7 +116,7 @@ Tuesday                  3538 commits        ████░░░░░░░�
 Wednesday                5038 commits        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
 Thursday                 4970 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
 Friday                   3081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Saturday                 496 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Saturday                 497 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 Sunday                   907 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
@@ -127,19 +127,19 @@ Sunday                   907 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     3 hrs 21 mins       ████████████████░░░░░░░░░   64.73 % 
-Go                       1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Java                     2 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.44 % 
+Go                       1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+Docker                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
 Antigravity IDE          5 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loyalty-service-backend  2 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.73 % 
-tsel-prestige-backend-app1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-gift-voucher-api         57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+tsel-prestige-backend-app2 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.47 % 
+loyalty-service-backend  1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
+gift-voucher-api         57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
 loyalty-api-gateway      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 reward-voucher-backend-se2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
@@ -150,28 +150,28 @@ Windows                  5 hrs 11 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 6 mins (79.0%)
+⏱ AI Coding Time: 4 hrs 12 mins (80.99%)
 
-✍️ 181 lines written by AI, 28 lines written by hand (86.6% AI-written)
+✍️ 184 lines written by AI, 28 lines written by hand (86.79% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 42 AI Prompts
+🧠 8 AI Sessions, 45 AI Prompts
 
-Opus                     169 lines           ██████████████████████░░░   89.42 % 
-Gemini                   20 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Opus                     173 lines           ██████████████████████░░░   89.64 % 
+Gemini                   20 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.6% of written lines came from AI
-📄 Detailed Prompter — average 757 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 19.23% of changed lines were hand-edited
+🤖 AI-Driven — 86.79% of written lines came from AI
+📄 Detailed Prompter — average 710 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 18.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 17:55:38 UTC
+ Last Updated on 29/08/2026 01:21:33 UTC
 <!--END_SECTION:waka-->
 
 ---
