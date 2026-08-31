@@ -100,78 +100,8 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.48%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                5490 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-🌆 Daytime                11843 commits       █████████████░░░░░░░░░░░░   53.60 % 
-🌃 Evening                3418 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-🌙 Night                  1344 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   4057 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Tuesday                  3538 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Wednesday                5038 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Thursday                 4970 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Friday                   3081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Saturday                 500 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Sunday                   911 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Java                     2 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.44 % 
-Go                       1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Docker                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-
-🔥 Editors: 
-Antigravity IDE          5 hrs 11 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-tsel-prestige-backend-app2 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.47 % 
-loyalty-service-backend  1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
-gift-voucher-api         57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-loyalty-api-gateway      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-reward-voucher-backend-se2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-
-💻 Operating System: 
-Windows                  5 hrs 11 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 12 mins (80.99%)
-
-✍️ 184 lines written by AI, 28 lines written by hand (86.79% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 45 AI Prompts
-
-Opus                     173 lines           ██████████████████████░░░   89.64 % 
-Gemini                   20 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 86.79% of written lines came from AI
-📄 Detailed Prompter — average 710 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 18.91% of changed lines were hand-edited
-```
-
-
- Last Updated on 31/08/2026 12:03:53 UTC
+ Last Updated on 31/08/2026 18:31:29 UTC
 <!--END_SECTION:waka-->
 
 ---
