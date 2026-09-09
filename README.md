@@ -105,7 +105,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ```text
 🌞 Morning                5505 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
 🌆 Daytime                11875 commits       █████████████░░░░░░░░░░░░   53.58 % 
-🌃 Evening                3430 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+🌃 Evening                3431 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
 🌙 Night                  1353 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -113,7 +113,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ```text
 Monday                   4064 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
 Tuesday                  3551 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Wednesday                5049 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Wednesday                5050 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
 Thursday                 4984 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
 Friday                   3096 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
 Saturday                 504 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
@@ -127,52 +127,51 @@ Sunday                   915 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       7 hrs 39 mins       ████████████████████░░░░░   78.00 % 
-Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Java                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Java Properties          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Go                       7 hrs 40 mins       ███████████████████░░░░░░   75.22 % 
+Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Java                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 40 mins       █████████████████████████   98.64 % 
-Antigravity Desktop      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Antigravity IDE          10 hrs 4 mins       █████████████████████████   98.69 % 
+Antigravity Desktop      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🐱‍💻 Projects: 
-tsel-prestige-backend-app8 hrs 22 mins       █████████████████████░░░░   85.25 % 
-loyalty-service-backend  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-scratch                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-gift-voucher-api         7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+tsel-prestige-backend-app8 hrs 53 mins       ██████████████████████░░░   86.99 % 
+loyalty-service-backend  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+scratch                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 💻 Operating System: 
-Windows                  9 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 47 mins (79.37%)
+⏱ AI Coding Time: 8 hrs 1 min (78.53%)
 
-✍️ 668 lines written by AI, 29 lines written by hand (95.84% AI-written)
+✍️ 359 lines written by AI, 37 lines written by hand (90.66% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 73 AI Prompts
+🧠 13 AI Sessions, 91 AI Prompts
 
-Opus                     546 lines           ████████████████░░░░░░░░░   64.39 % 
-Gemini                   302 lines           █████████░░░░░░░░░░░░░░░░   35.61 % 
+Opus                     257 lines           ████████████████░░░░░░░░░   64.09 % 
+Gemini                   144 lines           █████████░░░░░░░░░░░░░░░░   35.91 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.84% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.64% of changed lines were hand-edited
+🤖 AI-Driven — 90.66% of written lines came from AI
+📝 Concise Prompter — average 223 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 9.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 15:33:17 UTC
+ Last Updated on 09/09/2026 20:16:45 UTC
 <!--END_SECTION:waka-->
 
 ---
