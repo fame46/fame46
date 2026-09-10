@@ -98,25 +98,25 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.48%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5506 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-🌆 Daytime                11876 commits       █████████████░░░░░░░░░░░░   53.58 % 
-🌃 Evening                3431 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-🌙 Night                  1354 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+🌞 Morning                5501 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+🌆 Daytime                11857 commits       █████████████░░░░░░░░░░░░   53.56 % 
+🌃 Evening                3425 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+🌙 Night                  1354 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4064 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Tuesday                  3551 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Wednesday                5050 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-Thursday                 4987 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Friday                   3096 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Saturday                 504 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Monday                   4056 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Tuesday                  3548 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Wednesday                5039 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Thursday                 4984 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Friday                   3091 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Saturday                 504 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 Sunday                   915 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 
@@ -127,51 +127,54 @@ Sunday                   915 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       7 hrs 40 mins       ███████████████████░░░░░░   75.22 % 
-Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Java                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Go                       4 hrs 35 mins       ████████████████░░░░░░░░░   62.07 % 
+Java                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 4 mins       █████████████████████████   98.69 % 
-Antigravity Desktop      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Antigravity IDE          6 hrs 46 mins       ███████████████████████░░   91.46 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Antigravity Desktop      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-tsel-prestige-backend-app8 hrs 53 mins       ██████████████████████░░░   86.99 % 
-loyalty-service-backend  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-scratch                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+tsel-prestige-backend-app5 hrs 41 mins       ███████████████████░░░░░░   76.78 % 
+loyalty-service-backend  1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Unknown Project          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+scratch                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Windows                  10 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (78.53%)
+⏱ AI Coding Time: 5 hrs 6 mins (68.9%)
 
-✍️ 359 lines written by AI, 37 lines written by hand (90.66% AI-written)
+✍️ 347 lines written by AI, 56 lines written by hand (86.1% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 20,228 Input Tokens, 6,363 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.27 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 91 AI Prompts
+🧠 14 AI Sessions, 66 AI Prompts
 
-Opus                     257 lines           ████████████████░░░░░░░░░   64.09 % 
-Gemini                   144 lines           █████████░░░░░░░░░░░░░░░░   35.91 % 
+Opus                     198 lines           █████████████░░░░░░░░░░░░   50.90 % 
+Gemini                   112 lines           ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Sonnet                   79 lines            █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.66% of written lines came from AI
-📝 Concise Prompter — average 223 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 9.68% of changed lines were hand-edited
+🤖 AI-Driven — 86.1% of written lines came from AI
+📝 Concise Prompter — average 153 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 17.23% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 15:26:57 UTC
+ Last Updated on 10/09/2026 20:19:19 UTC
 <!--END_SECTION:waka-->
 
 ---
