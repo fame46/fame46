@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Regenerate twice a day so the grid stays current
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  generate:
+    name: Generate snake animation
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Build snake from contribution grid
+        uses: Platane/snk@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

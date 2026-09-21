@@ -90,10 +90,14 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 
 ---
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fame46&theme=radical&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fame46/fame46/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fame46/fame46/output/snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/fame46/fame46/output/snake.svg" />
+  </picture>
 </p>
 
 ---
