@@ -2,8 +2,8 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
+    # 17:00 UTC = 00:00 WIB (once a day at local midnight)
+    - cron: "0 17 * * *"
   workflow_dispatch: # Allow manual trigger
 
 jobs:
