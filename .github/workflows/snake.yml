@@ -17,10 +17,10 @@ jobs:
         uses: Platane/snk@v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Colors mirror the "radical" theme used by the other cards:
-          # bg #141321, pink #fe428e, cyan #a9fef7
+          # Colors mirror the "radical" theme used by the other cards.
+          # Background stays transparent: color_background only applies to .gif
           outputs: |
-            dist/snake.svg?color_background=#141321&color_dot_border=#ffffff10&color_dots=#251f38,#4a2545,#8c2f66,#c53b7f,#fe428e&color_snake=#a9fef7
+            dist/snake.svg?color_dot_border=#ffffff10&color_dots=#251f38,#4a2545,#8c2f66,#c53b7f,#fe428e&color_snake=#a9fef7
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5
