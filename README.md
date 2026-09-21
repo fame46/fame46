@@ -93,11 +93,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fame46/fame46/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fame46/fame46/output/snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/fame46/fame46/output/snake.svg" />
-  </picture>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/fame46/fame46/output/snake.svg" />
 </p>
 
 ---
