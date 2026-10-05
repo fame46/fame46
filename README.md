@@ -101,29 +101,29 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.49%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5523 commits        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-🌆 Daytime                11893 commits       █████████████░░░░░░░░░░░░   53.45 % 
-🌃 Evening                3435 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-🌙 Night                  1401 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+🌞 Morning                5523 commits        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+🌆 Daytime                11899 commits       █████████████░░░░░░░░░░░░   53.46 % 
+🌃 Evening                3435 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+🌙 Night                  1402 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4081 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Monday                   4088 commits        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
 Tuesday                  3552 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                5087 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Thursday                 4991 commits        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Wednesday                5087 commits        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Thursday                 4991 commits        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
 Friday                   3078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 Saturday                 522 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 Sunday                   941 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
@@ -136,52 +136,52 @@ Sunday                   941 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.13 % 
-Java                     4 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
-JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Java                     6 hrs 25 mins       ██████████████░░░░░░░░░░░   55.65 % 
+Go                       2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 56 mins       ██████████████████████░░░   87.43 % 
-Claude Code              1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Antigravity IDE          9 hrs 48 mins       █████████████████████░░░░   84.96 % 
+Claude Code              1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 
 🐱‍💻 Projects: 
-tsel-prestige-backend-app5 hrs 31 mins       ████████████░░░░░░░░░░░░░   48.56 % 
-loyalty-service-backend  5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.79 % 
-Unknown Project          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-fahmi                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-gift-voucher-api         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+loyalty-service-backend  6 hrs 20 mins       ██████████████░░░░░░░░░░░   54.94 % 
+tsel-prestige-backend-app3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.73 % 
+gift-voucher-api         47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Unknown Project          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+fahmi                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (16.22%)
+⏱ AI Coding Time: 2 hrs 24 mins (20.83%)
 
-✍️ 149 lines written by AI, 1,949 lines written by hand (7.1% AI-written)
+✍️ 236 lines written by AI, 1,852 lines written by hand (11.3% AI-written)
 
-🔤 325,007 Input Tokens, 91,392 Output Tokens
+🔤 475,766 Input Tokens, 121,475 Output Tokens
 
-💵 $6.07 Estimated AI Cost This Week
+💵 $7.04 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 21 AI Prompts
+🧠 11 AI Sessions, 31 AI Prompts
 
-Opus                     261 lines           █████████████████████████   100.00 % 
+Opus                     281 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.1% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
+🧑‍💻 Mostly Hands-On — 11.3% of written lines came from AI
+📝 Concise Prompter — average 133 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 96.16% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 20:04:42 UTC
+ Last Updated on 05/10/2026 23:13:31 UTC
 <!--END_SECTION:waka-->
 
 ---
