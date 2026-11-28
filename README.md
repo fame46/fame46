@@ -101,9 +101,9 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 ## ⏱ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,7 +112,7 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5784 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+🌞 Morning                5785 commits        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
 🌆 Daytime                12491 commits       █████████████░░░░░░░░░░░░   53.54 % 
 🌃 Evening                3569 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 🌙 Night                  1485 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
@@ -123,8 +123,8 @@ Technology excites me, and I enjoy exploring new tools, writing clean architectu
 Monday                   4307 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
 Tuesday                  3732 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 Wednesday                5355 commits        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Thursday                 5171 commits        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Friday                   3245 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Thursday                 5171 commits        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Friday                   3246 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 Saturday                 542 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 Sunday                   977 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
@@ -136,51 +136,50 @@ Sunday                   977 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
-Java                     2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-YAML                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Markdown                 4 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.46 % 
+Java                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+YAML                     1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 3 mins        ████████████████░░░░░░░░░   63.66 % 
-Claude Code              4 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.34 % 
+Antigravity IDE          7 hrs 41 mins       ██████████████████░░░░░░░   73.59 % 
+Claude Code              2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
 
 🐱‍💻 Projects: 
-loyalty-service-backend  11 hrs 8 mins       ██████████████████████░░░   88.14 % 
-inlislite3-perpustakaan-a58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-fame46                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-loyalty-backend-app      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+loyalty-service-backend  9 hrs 5 mins        ██████████████████████░░░   86.82 % 
+inlislite3-perpustakaan-a58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+fame46                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 💻 Operating System: 
-Windows                  12 hrs 34 mins      █████████████████████████   99.36 % 
-WSL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Windows                  10 hrs 22 mins      █████████████████████████   99.22 % 
+WSL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 59 mins (71.04%)
+⏱ AI Coding Time: 7 hrs 1 min (67.21%)
 
-✍️ 4,523 lines written by AI, 73 lines written by hand (98.41% AI-written)
+✍️ 3,263 lines written by AI, 70 lines written by hand (97.9% AI-written)
 
-🔤 3,723,750 Input Tokens, 743,462 Output Tokens
+🔤 2,488,003 Input Tokens, 559,732 Output Tokens
 
-💵 $66.04 Estimated AI Cost This Week
+💵 $49.45 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 76 AI Prompts
+🧠 12 AI Sessions, 58 AI Prompts
 
-Opus                     4,552 lines         █████████████████████████   100.00 % 
+Opus                     3,290 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.41% of written lines came from AI
-📝 Concise Prompter — average 374 characters per prompt
+🤖 AI-Driven — 97.9% of written lines came from AI
+📝 Concise Prompter — average 118 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.66% of changed lines were hand-edited
+🚀 High AI Trust — 2.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/11/2026 01:04:43 UTC
+ Last Updated on 28/11/2026 00:29:46 UTC
 <!--END_SECTION:waka-->
 
 ---
